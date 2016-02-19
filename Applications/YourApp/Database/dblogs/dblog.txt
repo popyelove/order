@@ -1,0 +1,771 @@
+2015-10-01 13:48:55 æŸ¥è¯¢ select id from tbl_members_base where username=lichao1
+2015-10-01 13:48:55 Query Error: select id from tbl_members_base where username=lichao1
+Unknown column 'lichao1' in 'where clause'
+2015-10-01 13:48:55 é‡Šæ”¾ç»“æœé›†
+2015-10-01 13:48:55 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0029208660125732
+2015-10-01 13:50:40 æŸ¥è¯¢ select id from tbl_members_base where username='lichao1'
+2015-10-01 13:50:40 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao1'
+2015-10-01 13:50:40 é‡Šæ”¾ç»“æœé›†
+2015-10-01 13:50:40 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0024490356445312
+2015-10-01 13:52:57 æŸ¥è¯¢ select id from tbl_members_base where username='lichao1'
+2015-10-01 13:52:57 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao1'
+2015-10-01 13:52:57 é‡Šæ”¾ç»“æœé›†
+2015-10-01 13:52:57 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0023629665374756
+2015-10-01 14:55:31 æŸ¥è¯¢ select id from tbl_members_base where username='lichao1'
+2015-10-01 14:55:31 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao1'
+2015-10-01 14:55:31 é‡Šæ”¾ç»“æœé›†
+2015-10-01 14:55:31 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0023348331451416
+2015-10-01 15:08:43 æŸ¥è¯¢ select id from tbl_members_base where username='lichao1'
+2015-10-01 15:08:43 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao1'
+2015-10-01 15:08:43 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,usertype,money,point,token,id) values('lichao1','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','0','0','10','ABC','2015100115084350785')
+2015-10-01 15:08:43 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,usertype,money,point,token,id) values('lichao1','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','0','0','10','ABC','2015100115084350785')
+2015-10-01 15:08:43 Query Error: insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,usertype,money,point,token,id) values('lichao1','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','0','0','10','ABC','2015100115084350785')
+Unknown column 'token' in 'field list'
+2015-10-01 15:08:43 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:08:43 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0026140213012695
+2015-10-01 15:12:56 æŸ¥è¯¢ select id from tbl_members_base where username='lichao1'
+2015-10-01 15:12:56 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao1'
+2015-10-01 15:12:56 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,usertype,money,point,id) values('lichao1','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','0','0','10','2015100115125676552')
+2015-10-01 15:12:56 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,usertype,money,point,id) values('lichao1','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','0','0','10','2015100115125676552')
+2015-10-01 15:12:56 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:12:56 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0027320384979248
+2015-10-01 15:14:16 æŸ¥è¯¢ select id from tbl_members_base where username='lichao1'
+2015-10-01 15:14:16 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao1'
+2015-10-01 15:14:16 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:14:16 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0024459362030029
+2015-10-01 15:17:03 æŸ¥è¯¢ select id from tbl_members_base where username='lichao1'
+2015-10-01 15:17:03 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao1'
+2015-10-01 15:17:03 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:17:03 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0033450126647949
+2015-10-01 15:19:04 æŸ¥è¯¢ select id from tbl_members_base where username='lichao1'
+2015-10-01 15:19:04 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao1'
+2015-10-01 15:19:04 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:19:04 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0028688907623291
+2015-10-01 15:21:57 æŸ¥è¯¢ select id from tbl_members_base where username='lichao1'
+2015-10-01 15:21:57 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao1'
+2015-10-01 15:21:57 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:21:57 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0023849010467529
+2015-10-01 15:26:39 æŸ¥è¯¢ select id from tbl_members_base where username='lichao1'
+2015-10-01 15:26:39 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao1'
+2015-10-01 15:41:08 æŸ¥è¯¢ select id from tbl_members_base where username='lichao2'
+2015-10-01 15:41:08 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao2'
+2015-10-01 15:41:08 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao2','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100115410888621','0','0','10')
+2015-10-01 15:41:08 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao2','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100115410888621','0','0','10')
+2015-10-01 15:41:08 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:41:08 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0026199817657471
+2015-10-01 15:43:54 æŸ¥è¯¢ select id from tbl_members_base where username='lichao3'
+2015-10-01 15:43:54 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao3'
+2015-10-01 15:43:54 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao3','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100115435427386','0','0','10')
+2015-10-01 15:43:54 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao3','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100115435427386','0','0','10')
+2015-10-01 15:43:54 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:43:54 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0029001235961914
+2015-10-01 15:44:35 æŸ¥è¯¢ select id from tbl_members_base where username='lichao4'
+2015-10-01 15:44:35 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao4'
+2015-10-01 15:44:35 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao4','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100115443512023','0','0','10')
+2015-10-01 15:44:35 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao4','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100115443512023','0','0','10')
+2015-10-01 15:44:35 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:44:35 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0035312175750732
+2015-10-01 15:55:38 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 15:55:38 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 15:55:38 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:55:38 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.002371072769165
+2015-10-01 15:57:06 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 15:57:06 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 15:57:06 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:57:06 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0023488998413086
+2015-10-01 15:59:24 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 15:59:24 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 15:59:24 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:59:24 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0023069381713867
+2015-10-01 15:59:30 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 15:59:30 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 15:59:30 é‡Šæ”¾ç»“æœé›†
+2015-10-01 15:59:30 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0011661052703857
+2015-10-01 16:02:21 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:02:21 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:02:21 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100116022120297','0','0','10')
+2015-10-01 16:02:21 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100116022120297','0','0','10')
+2015-10-01 16:02:21 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:02:21 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0013949871063232
+2015-10-01 16:19:56 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:19:56 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:19:56 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:19:56 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0028729438781738
+2015-10-01 16:20:14 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:20:14 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:20:14 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:20:14 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0011470317840576
+2015-10-01 16:21:09 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:21:09 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:21:09 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:21:09 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0031430721282959
+2015-10-01 16:23:43 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 16:23:43 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 16:23:43 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:23:43 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0032458305358887
+2015-10-01 16:44:37 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:44:37 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:44:37 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:44:37 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0035660266876221
+2015-10-01 16:44:48 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:44:48 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:44:48 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:44:48 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0012130737304688
+2015-10-01 16:48:38 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:48:38 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:48:38 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:48:38 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0011579990386963
+2015-10-01 16:54:04 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:54:04 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:54:04 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100116540422217','','','')
+2015-10-01 16:54:04 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100116540422217','','','')
+2015-10-01 16:54:04 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:54:04 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0028178691864014
+2015-10-01 16:55:30 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:55:30 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:55:30 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100116553024172','','','')
+2015-10-01 16:55:30 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100116553024172','','','')
+2015-10-01 16:55:30 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:55:30 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0035159587860107
+2015-10-01 16:56:19 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:56:19 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:56:19 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100116561976692','0','0','10')
+2015-10-01 16:56:19 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100116561976692','0','0','10')
+2015-10-01 16:56:19 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:56:19 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0025110244750977
+2015-10-01 16:56:35 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:56:35 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:56:35 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:56:35 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0012280941009521
+2015-10-01 16:57:08 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:57:08 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:57:08 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:57:08 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0023648738861084
+2015-10-01 16:57:13 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:57:13 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:57:13 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:57:13 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0011951923370361
+2015-10-01 16:57:33 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:57:33 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:57:33 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:57:33 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0025660991668701
+2015-10-01 16:57:38 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 16:57:38 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 16:57:38 é‡Šæ”¾ç»“æœé›†
+2015-10-01 16:57:38 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0038681030273438
+2015-10-01 17:07:52 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 17:07:52 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 17:07:52 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,client_id,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','159','2015100117075265984','0','0','10')
+2015-10-01 17:07:52 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,client_id,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','159','2015100117075265984','0','0','10')
+2015-10-01 17:07:52 Query Error: insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,client_id,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','159','2015100117075265984','0','0','10')
+Unknown column 'client_id' in 'field list'
+2015-10-01 17:07:52 é‡Šæ”¾ç»“æœé›†
+2015-10-01 17:07:52 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0026819705963135
+2015-10-01 17:12:51 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5'
+2015-10-01 17:12:51 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5'
+2015-10-01 17:12:51 æ’å…¥ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100117125184803','0','0','10')
+2015-10-01 17:12:51 æŸ¥è¯¢ insert into tbl_members_base(username,password,email,wechat,qq,mobilephone,id,usertype,money,point) values('lichao5','a382cd40eaf65b6d98f0135e2fa3f016','979071224@qq.com','123456','979071224','15200311079','2015100117125184803','0','0','10')
+2015-10-01 17:12:51 é‡Šæ”¾ç»“æœé›†
+2015-10-01 17:12:51 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.002528190612793
+2015-10-01 17:15:49 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:15:49 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:15:49 æ›´æ–° update tbl_members_base set client_id = '161',client_id = '161' where 1=1 and 
+2015-10-01 17:15:49 æŸ¥è¯¢ update tbl_members_base set client_id = '161',client_id = '161' where 1=1 and 
+2015-10-01 17:15:49 Query Error: update tbl_members_base set client_id = '161',client_id = '161' where 1=1 and 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-10-01 17:15:49 é‡Šæ”¾ç»“æœé›†
+2015-10-01 17:15:49 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.003262996673584
+2015-10-01 17:19:47 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:19:47 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:19:47 æ›´æ–° update tbl_members_base set client_id = '162',client_id = '162' where 1=1 and 
+2015-10-01 17:19:47 æŸ¥è¯¢ update tbl_members_base set client_id = '162',client_id = '162' where 1=1 and 
+2015-10-01 17:19:47 Query Error: update tbl_members_base set client_id = '162',client_id = '162' where 1=1 and 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-10-01 17:19:47 é‡Šæ”¾ç»“æœé›†
+2015-10-01 17:19:47 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0026490688323975
+2015-10-01 17:20:42 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:20:42 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:20:42 æ›´æ–° update tbl_members_base set client_id = '163',client_id = '163' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:20:42 æŸ¥è¯¢ update tbl_members_base set client_id = '163',client_id = '163' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:20:42 é‡Šæ”¾ç»“æœé›†
+2015-10-01 17:20:42 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0026509761810303
+2015-10-01 17:36:46 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:36:46 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:36:46 æ›´æ–° update tbl_members_base set client_id = '164',client_id = '164' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:36:46 æŸ¥è¯¢ update tbl_members_base set client_id = '164',client_id = '164' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:36:46 é‡Šæ”¾ç»“æœé›†
+2015-10-01 17:36:46 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0027461051940918
+2015-10-01 17:38:16 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:38:16 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:38:16 æ›´æ–° update tbl_members_base set client_id = '165',client_id = '165' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:38:16 æŸ¥è¯¢ update tbl_members_base set client_id = '165',client_id = '165' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:38:16 é‡Šæ”¾ç»“æœé›†
+2015-10-01 17:38:16 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0038609504699707
+2015-10-01 17:39:02 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:39:02 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:39:02 æ›´æ–° update tbl_members_base set client_id = '166',client_id = '166' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:39:02 æŸ¥è¯¢ update tbl_members_base set client_id = '166',client_id = '166' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 17:39:02 é‡Šæ”¾ç»“æœé›†
+2015-10-01 17:39:02 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0038669109344482
+2015-10-01 18:42:13 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:42:13 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:42:13 æ›´æ–° update tbl_members_base set client_id = '167',client_id = '167' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:42:13 æŸ¥è¯¢ update tbl_members_base set client_id = '167',client_id = '167' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:42:13 é‡Šæ”¾ç»“æœé›†
+2015-10-01 18:42:13 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0039517879486084
+2015-10-01 18:43:10 æŸ¥è¯¢ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:43:10 è·å–ä¸€æ¡è®°å½• select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:43:10 æ›´æ–° update tbl_members_base set client_id = '169',client_id = '169' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:43:10 æŸ¥è¯¢ update tbl_members_base set client_id = '169',client_id = '169' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:43:10 é‡Šæ”¾ç»“æœé›†
+2015-10-01 18:43:10 å®Œæˆæ•´ä¸ªæŸ¥è¯¢ä»»åŠ¡,æ‰€ç”¨æ—¶é—´ä¸º0.0038809776306152
+2015-10-01 18:58:55 ²éÑ¯ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:58:55 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:58:55 ¸üĞÂ update tbl_members_base set client_id = '170',client_id = '170' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:58:55 ²éÑ¯ update tbl_members_base set client_id = '170',client_id = '170' where 1=1 and username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 18:58:55 ÊÍ·Å½á¹û¼¯
+2015-10-01 18:58:55 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0038721561431885
+2015-10-01 19:07:12 ²éÑ¯ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 19:07:12 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 19:07:12 Ã»ÓĞÒª¸üĞÂµÄÊı¾İ
+
+2015-10-01 19:07:12 ÊÍ·Å½á¹û¼¯
+2015-10-01 19:07:12 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0027680397033691
+2015-10-01 19:08:47 ²éÑ¯ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 19:08:47 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 19:08:47 ÊÍ·Å½á¹û¼¯
+2015-10-01 19:08:47 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0041589736938477
+2015-10-01 19:26:36 ²éÑ¯ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 19:26:36 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 19:26:36 ÊÍ·Å½á¹û¼¯
+2015-10-01 19:26:36 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0029938220977783
+2015-10-01 21:48:03 ²éÑ¯ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 21:48:03 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 21:48:03 ÊÍ·Å½á¹û¼¯
+2015-10-01 21:48:03 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0028128623962402
+2015-10-01 22:13:58 ²éÑ¯ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 22:13:58 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select id from tbl_members_base where username='lichao5' and password='a382cd40eaf65b6d98f0135e2fa3f016'
+2015-10-01 22:13:58 ÊÍ·Å½á¹û¼¯
+2015-10-01 22:13:58 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0075039863586426
+2015-10-01 22:14:35 ²åÈë insert into tbl_order_content(title,content,price,img,typeid,id,publishuserid,publishtime,onlinetime,publishurl,sourceurl,oururl,propid,pvnum,joinnum,favnum,isactive,isontop,sortby) values('æ¶ˆæ¯','å†…å®¹','10','/temp/1.jpg','1','2015100122143580904','2015100117125184803','2015-10-01 22:14:35','','','','','','0','1','0','0','0','0')
+2015-10-01 22:14:35 ²éÑ¯ insert into tbl_order_content(title,content,price,img,typeid,id,publishuserid,publishtime,onlinetime,publishurl,sourceurl,oururl,propid,pvnum,joinnum,favnum,isactive,isontop,sortby) values('æ¶ˆæ¯','å†…å®¹','10','/temp/1.jpg','1','2015100122143580904','2015100117125184803','2015-10-01 22:14:35','','','','','','0','1','0','0','0','0')
+2015-10-01 22:14:35 ÊÍ·Å½á¹û¼¯
+2015-10-01 22:14:35 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0012259483337402
+2015-10-02 02:18:55 ²éÑ¯ select title,publishtime,content,price,
+		img,from tbl_order_content where id='2015100122143580904'
+2015-10-02 02:18:55 Query Error: select title,publishtime,content,price,
+		img,from tbl_order_content where id='2015100122143580904'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from tbl_order_content where id='2015100122143580904'' at line 2
+2015-10-02 02:18:55 ÊÍ·Å½á¹û¼¯
+2015-10-02 02:18:55 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0026540756225586
+2015-10-02 02:19:43 ²éÑ¯ select title,publishtime,content,price,
+		img,from tbl_order_content where id=2015100122143580904
+2015-10-02 02:19:43 Query Error: select title,publishtime,content,price,
+		img,from tbl_order_content where id=2015100122143580904
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from tbl_order_content where id=2015100122143580904' at line 2
+2015-10-02 02:19:43 ÊÍ·Å½á¹û¼¯
+2015-10-02 02:19:43 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023508071899414
+2015-10-02 02:20:17 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 02:20:17 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 02:20:17 ÊÍ·Å½á¹û¼¯
+2015-10-02 02:20:17 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0036690235137939
+2015-10-02 02:22:18 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 02:22:18 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 02:22:18 ÊÍ·Å½á¹û¼¯
+2015-10-02 02:22:18 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0036458969116211
+2015-10-02 02:22:42 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 02:22:42 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 02:22:42 ÊÍ·Å½á¹û¼¯
+2015-10-02 02:22:42 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0013129711151123
+2015-10-02 02:22:55 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 02:22:55 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 02:22:55 ÊÍ·Å½á¹û¼¯
+2015-10-02 02:22:55 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0016038417816162
+2015-10-02 02:23:12 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 02:23:12 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 02:23:12 ÊÍ·Å½á¹û¼¯
+2015-10-02 02:23:12 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.003713846206665
+2015-10-02 08:59:05 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 08:59:05 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 08:59:05 ÊÍ·Å½á¹û¼¯
+2015-10-02 08:59:05 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0025858879089355
+2015-10-02 09:03:42 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:03:42 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:03:42 ÊÍ·Å½á¹û¼¯
+2015-10-02 09:03:42 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0024089813232422
+2015-10-02 09:11:26 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:11:26 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:11:26 ÊÍ·Å½á¹û¼¯
+2015-10-02 09:11:26 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0033419132232666
+2015-10-02 09:13:33 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:13:33 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:13:33 ÊÍ·Å½á¹û¼¯
+2015-10-02 09:13:33 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023751258850098
+2015-10-02 09:15:27 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:15:27 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:15:27 ÊÍ·Å½á¹û¼¯
+2015-10-02 09:15:27 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0035090446472168
+2015-10-02 09:16:26 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:16:26 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:16:26 ÊÍ·Å½á¹û¼¯
+2015-10-02 09:16:26 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0024821758270264
+2015-10-02 09:37:44 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:37:44 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:37:44 ÊÍ·Å½á¹û¼¯
+2015-10-02 09:37:44 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023319721221924
+2015-10-02 09:39:42 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:39:42 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:39:42 ÊÍ·Å½á¹û¼¯
+2015-10-02 09:39:42 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023460388183594
+2015-10-02 09:40:47 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:40:47 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 09:40:47 ÊÍ·Å½á¹û¼¯
+2015-10-02 09:40:47 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0026428699493408
+2015-10-02 10:13:47 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:13:47 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:13:47 ÊÍ·Å½á¹û¼¯
+2015-10-02 10:13:47 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023839473724365
+2015-10-02 10:14:42 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:14:42 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:14:42 ÊÍ·Å½á¹û¼¯
+2015-10-02 10:14:42 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0026578903198242
+2015-10-02 10:15:31 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:15:31 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:15:31 ÊÍ·Å½á¹û¼¯
+2015-10-02 10:15:31 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023889541625977
+2015-10-02 10:16:57 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:16:57 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:16:57 ÊÍ·Å½á¹û¼¯
+2015-10-02 10:16:57 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0024580955505371
+2015-10-02 10:18:24 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:18:24 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:18:24 ÊÍ·Å½á¹û¼¯
+2015-10-02 10:18:24 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0029652118682861
+2015-10-02 10:32:48 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:32:48 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:32:48 ÊÍ·Å½á¹û¼¯
+2015-10-02 10:32:48 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023438930511475
+2015-10-02 10:42:20 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:42:20 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:42:20 ÊÍ·Å½á¹û¼¯
+2015-10-02 10:42:20 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0028200149536133
+2015-10-02 10:43:14 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:43:14 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:43:14 ÊÍ·Å½á¹û¼¯
+2015-10-02 10:43:14 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0024299621582031
+2015-10-02 10:44:58 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:44:58 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 10:44:58 ÊÍ·Å½á¹û¼¯
+2015-10-02 10:44:58 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023231506347656
+2015-10-02 12:11:59 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 12:11:59 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 12:11:59 ÊÍ·Å½á¹û¼¯
+2015-10-02 12:11:59 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0024318695068359
+2015-10-02 12:13:25 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 12:13:25 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 12:13:25 ÊÍ·Å½á¹û¼¯
+2015-10-02 12:13:25 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023529529571533
+2015-10-02 12:13:42 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 12:13:42 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 12:13:42 ÊÍ·Å½á¹û¼¯
+2015-10-02 12:13:42 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0011999607086182
+2015-10-02 12:17:27 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 12:17:27 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 12:17:27 ÊÍ·Å½á¹û¼¯
+2015-10-02 12:17:27 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0027010440826416
+2015-10-02 18:10:19 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:10:19 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:10:19 ÊÍ·Å½á¹û¼¯
+2015-10-02 18:10:19 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0024909973144531
+2015-10-02 18:11:30 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:11:30 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:11:30 ÊÍ·Å½á¹û¼¯
+2015-10-02 18:11:30 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0032191276550293
+2015-10-02 18:12:51 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:12:51 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:12:51 ÊÍ·Å½á¹û¼¯
+2015-10-02 18:12:51 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023260116577148
+2015-10-02 18:30:16 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:30:16 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:30:16 ÊÍ·Å½á¹û¼¯
+2015-10-02 18:30:16 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0024609565734863
+2015-10-02 18:31:25 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:31:25 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:31:25 ÊÍ·Å½á¹û¼¯
+2015-10-02 18:31:25 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0032939910888672
+2015-10-02 18:31:33 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:31:33 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:31:33 ÊÍ·Å½á¹û¼¯
+2015-10-02 18:31:33 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.001068115234375
+2015-10-02 18:32:01 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:32:01 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 18:32:01 ÊÍ·Å½á¹û¼¯
+2015-10-02 18:32:01 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0025830268859863
+2015-10-02 21:44:42 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 21:44:42 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 21:44:42 ÊÍ·Å½á¹û¼¯
+2015-10-02 21:44:42 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023097991943359
+2015-10-02 21:44:53 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 21:44:53 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 21:44:53 ÊÍ·Å½á¹û¼¯
+2015-10-02 21:44:53 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0015630722045898
+2015-10-02 21:45:56 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 21:45:56 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-02 21:45:56 ÊÍ·Å½á¹û¼¯
+2015-10-02 21:45:56 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0010969638824463
+2015-10-03 13:44:07 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 13:44:07 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 13:44:07 ÊÍ·Å½á¹û¼¯
+2015-10-03 13:44:07 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.002371072769165
+2015-10-03 13:45:19 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 13:45:19 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 13:47:30 ÊÍ·Å½á¹û¼¯
+2015-10-03 13:47:30 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª130.47100400925
+2015-10-03 14:28:43 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:28:43 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:28:43 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:28:43 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.082712173461914
+2015-10-03 14:29:27 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:29:27 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:29:27 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:29:27 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0035450458526611
+2015-10-03 14:30:00 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:30:00 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:30:00 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:30:00 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0026109218597412
+2015-10-03 14:30:58 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:30:58 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:30:58 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:30:58 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.001183032989502
+2015-10-03 14:34:55 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:34:55 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:34:55 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:34:55 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.002284049987793
+2015-10-03 14:35:59 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:35:59 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:35:59 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:35:59 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023558139801025
+2015-10-03 14:43:52 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:43:52 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:44:47 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:44:47 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 14:45:09 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:45:09 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª76.773860931396
+2015-10-03 14:45:09 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:45:09 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª21.978908061981
+2015-10-03 14:45:09 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:45:09 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª76.775607824326
+2015-10-03 14:45:09 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:45:09 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª21.980631113052
+2015-10-03 14:45:09 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:45:09 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª76.873624801636
+2015-10-03 14:45:09 ÊÍ·Å½á¹û¼¯
+2015-10-03 14:45:09 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª22.078625917435
+2015-10-03 15:03:03 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:03:03 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:03:03 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:03:03 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0099811553955078
+2015-10-03 15:04:57 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:04:57 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:04:57 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:04:57 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0024080276489258
+2015-10-03 15:05:04 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:05:04 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:05:04 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:05:04 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.001183032989502
+2015-10-03 15:16:41 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:16:41 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:16:41 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:16:41 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.004472017288208
+2015-10-03 15:19:53 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:19:53 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:19:53 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:19:53 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0030300617218018
+2015-10-03 15:25:44 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:25:44 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:25:44 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:25:44 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0030078887939453
+2015-10-03 15:28:15 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:28:15 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:28:15 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:28:15 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0042688846588135
+2015-10-03 15:34:18 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:34:18 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:34:18 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:34:18 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0049800872802734
+2015-10-03 15:34:28 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:34:28 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:34:28 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:34:28 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0012800693511963
+2015-10-03 15:35:58 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:35:58 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:35:58 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:35:58 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0041520595550537
+2015-10-03 15:37:17 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:37:17 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:37:17 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:37:17 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0041141510009766
+2015-10-03 15:39:34 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:39:34 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:39:34 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:39:34 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0031290054321289
+2015-10-03 15:40:10 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:40:10 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:40:10 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:40:10 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0041799545288086
+2015-10-03 15:42:58 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:42:58 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:42:58 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:42:58 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023620128631592
+2015-10-03 15:44:06 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:44:06 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:44:06 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:44:06 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0044000148773193
+2015-10-03 15:45:25 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:45:25 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:45:25 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:45:25 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0041041374206543
+2015-10-03 15:46:13 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:46:13 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 15:46:13 ÊÍ·Å½á¹û¼¯
+2015-10-03 15:46:13 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0029449462890625
+2015-10-03 16:27:19 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:27:19 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:27:19 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:27:19 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0043349266052246
+2015-10-03 16:29:28 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:29:28 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:29:28 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:29:28 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0033869743347168
+2015-10-03 16:30:47 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:30:47 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:30:47 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:30:47 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0034499168395996
+2015-10-03 16:32:14 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:32:14 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:32:14 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:32:14 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0037500858306885
+2015-10-03 16:32:24 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:32:24 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:32:24 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:32:24 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0013699531555176
+2015-10-03 16:35:00 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:35:00 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:35:00 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:35:00 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0043439865112305
+2015-10-03 16:35:34 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:35:34 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:35:34 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:35:34 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0033860206604004
+2015-10-03 16:36:03 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:36:03 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:36:03 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:36:03 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0029840469360352
+2015-10-03 16:37:41 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:37:41 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:37:41 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:37:41 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0032742023468018
+2015-10-03 16:51:16 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:51:16 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:51:16 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:51:16 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.004033088684082
+2015-10-03 16:52:18 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:52:18 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:52:18 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:52:18 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0056121349334717
+2015-10-03 16:52:53 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:52:53 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:52:53 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:52:53 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0041511058807373
+2015-10-03 16:54:38 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:54:38 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:54:38 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:54:38 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0023508071899414
+2015-10-03 16:55:32 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:55:32 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:55:32 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:55:32 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0032999515533447
+2015-10-03 16:57:51 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:57:51 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:57:51 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:57:51 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0027401447296143
+2015-10-03 16:58:26 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:58:26 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:58:26 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:58:26 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.004065990447998
+2015-10-03 16:59:34 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:59:34 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 16:59:34 ÊÍ·Å½á¹û¼¯
+2015-10-03 16:59:34 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.004040002822876
+2015-10-03 17:01:00 ²éÑ¯ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 17:01:00 »ñÈ¡Ò»Ìõ¼ÇÂ¼ select title,publishtime,content,price,
+		img from tbl_order_content where id=2015100122143580904
+2015-10-03 17:01:00 ÊÍ·Å½á¹û¼¯
+2015-10-03 17:01:00 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.0038011074066162
+2015-10-05 02:06:40 ²åÈë insert into tbl_order_content(title,content,price,img,typeid,id,publishuserid,publishtime,onlinetime,publishurl,sourceurl,oururl,propid,pvnum,joinnum,favnum,isactive,isontop,sortby) values('æ¶ˆæ¯','å†…å®¹','100','/temp/1.jpg','1','2015100502064018400','','2015-10-05 02:06:40','','','','','','0','1','0','0','0','0')
+2015-10-05 02:06:40 ²éÑ¯ insert into tbl_order_content(title,content,price,img,typeid,id,publishuserid,publishtime,onlinetime,publishurl,sourceurl,oururl,propid,pvnum,joinnum,favnum,isactive,isontop,sortby) values('æ¶ˆæ¯','å†…å®¹','100','/temp/1.jpg','1','2015100502064018400','','2015-10-05 02:06:40','','','','','','0','1','0','0','0','0')
+2015-10-05 02:06:40 ÊÍ·Å½á¹û¼¯
+2015-10-05 02:06:40 Íê³ÉÕû¸ö²éÑ¯ÈÎÎñ,ËùÓÃÊ±¼äÎª0.044612884521484

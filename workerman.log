@@ -1,0 +1,1781 @@
+2015-10-31 01:40:05 Workerman[start.php] start in DEBUG mode
+2016-01-26 09:40:05 Workerman[start.php] start in DAEMON mode
+2016-01-26 09:46:20 Workerman[start.php] stop 
+2016-01-26 09:46:20 Workerman[start.php] is stoping ...
+2016-01-26 09:46:20 Workerman[start.php] Stopping ...
+2016-01-26 09:46:20 Workerman[start.php] has been stopped
+2016-01-26 09:46:20 Workerman[start.php] stop success
+2016-01-26 09:46:25 Workerman[start.php] start in DEBUG mode
+2016-01-26 09:47:43 Workerman[start.php] Stopping ...
+2016-01-26 09:47:43 Workerman[start.php] has been stopped
+2016-01-26 09:47:58 Workerman[start.php] start in DEBUG mode
+2016-01-26 09:48:58 Workerman[start.php] Stopping ...
+2016-01-26 09:48:58 Workerman[start.php] has been stopped
+2016-01-26 09:49:03 Workerman[start.php] start in DEBUG mode
+2016-02-05 15:11:28 Workerman[start.php] start in DEBUG mode
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1788] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1797] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1786] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1787] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1785] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppGateway:1798] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1800] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1799] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1805] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1803] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1801] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1802] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1804] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppGateway:1806] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppGateway:1808] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1807] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1809] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppGateway:1812] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1811] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1810] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1813] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppGateway:1814] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1815] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1816] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1817] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1819] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1820] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1818] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1821] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppGateway:1823] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1824] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppGateway:1822] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1825] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1826] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1828] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1827] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1829] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppGateway:1830] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppGateway:1832] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1831] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1833] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1835] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1834] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1836] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1837] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppGateway:1838] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1839] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1841] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1840] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppGateway:1842] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1843] exit with status 65280
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1844] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 worker[YourAppBusinessWorker:1845] exit with status 65280
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1848] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1849] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1847] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1846] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1850] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1851] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1852] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1853] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1854] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1856] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1857] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1855] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1858] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1860] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1859] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1861] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1863] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1868] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1864] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1866] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1862] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1865] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1867] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1869] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1870] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1872] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1871] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1874] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1875] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1873] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1876] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1877] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1879] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1878] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1881] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1880] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1882] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1884] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1883] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1885] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1886] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1890] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1888] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1887] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1889] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1891] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1892] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1899] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1893] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1896] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1897] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1898] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1894] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1895] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1900] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1903] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1902] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1901] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1904] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1905] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1906] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1907] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1908] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1910] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1909] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1912] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1911] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1915] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1913] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1914] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1916] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1918] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1917] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1921] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1920] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1922] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1919] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1923] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1926] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1924] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1927] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1925] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1928] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1929] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1930] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1931] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1932] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1934] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1936] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1935] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1937] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1933] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1938] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1939] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1940] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1943] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1942] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1944] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1945] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1941] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1946] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1948] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1947] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1949] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1950] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1951] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1952] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1953] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1957] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1956] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1954] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1958] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1955] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1959] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1960] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1961] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1965] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1966] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1964] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1968] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1962] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1967] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1963] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1969] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1970] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1971] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1973] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1972] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1974] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1975] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1976] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1978] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1977] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1980] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1979] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1982] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1983] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1981] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1984] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1985] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1987] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1989] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1990] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1988] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1986] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1992] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1991] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1994] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1995] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1993] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1996] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:1997] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:1998] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:2000] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:1999] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:2001] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2005] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2002] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2003] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2004] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:2006] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:2007] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:2008] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:2009] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2011] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2010] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2012] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2013] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:2015] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:2014] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:2016] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2018] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:2017] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2021] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2019] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppBusinessWorker:2020] exit with status 65280
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:29 worker[YourAppGateway:2022] exit with status 65280
+2016-02-05 15:11:29 worker[YourAppGateway:2023] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2024] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2025] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2026] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2027] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2028] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2029] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2030] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2031] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2035] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2033] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2032] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2036] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2034] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2037] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2038] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2039] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2043] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2042] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2041] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2040] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2044] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2045] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2046] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2047] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2048] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2050] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2049] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2051] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2052] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2053] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2054] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2055] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2056] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2058] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2061] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2057] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2059] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2062] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2060] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2063] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2065] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2066] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2068] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2064] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2067] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2069] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2070] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2074] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2071] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2072] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2073] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2075] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2076] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2077] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2078] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2079] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2082] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2081] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2083] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2080] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2084] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2085] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2086] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2088] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2090] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2087] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2089] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2091] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2092] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2093] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2094] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2096] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2095] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2097] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2098] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2099] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2100] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2101] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2102] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2104] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2103] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2105] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2106] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2107] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2108] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2109] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2111] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2112] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2110] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2114] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2115] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2113] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2116] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2117] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2118] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2123] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2119] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2121] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2122] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2120] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2124] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2125] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2128] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2126] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2129] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2127] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2130] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2131] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2133] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2132] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2138] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2135] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2136] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2134] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2137] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2139] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 Workerman[start.php] Stopping ...
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2143] exit with status 65280
+2016-02-05 15:11:30 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:11:30 worker[YourAppGateway:2144] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2147] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2145] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2142] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppBusinessWorker:2148] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2146] exit with status 65280
+2016-02-05 15:11:30 worker[YourAppGateway:2149] exit with status 65280
+2016-02-05 15:11:30 Workerman[start.php] has been stopped
+2016-02-05 15:13:08 Workerman[start.php] start in DEBUG mode
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2261] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2270] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2260] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2259] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2271] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2258] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2272] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2273] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2274] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2276] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2277] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2275] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2278] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2279] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2283] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2282] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2281] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2280] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2284] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2286] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2285] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2287] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2289] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2288] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2291] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2290] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2292] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2295] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2293] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2294] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2296] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2297] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2299] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2302] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2298] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2301] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2300] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2304] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2305] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2303] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2306] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2307] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2309] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2308] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2310] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2311] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2313] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2312] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2318] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2317] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2319] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2316] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2315] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2314] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2320] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2321] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2323] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2324] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2322] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2326] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2327] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2325] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2328] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2329] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2335] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2333] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2332] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2334] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2336] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2337] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2339] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2340] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2338] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2341] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2343] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2342] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2345] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2344] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2348] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2351] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2347] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2346] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2349] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2350] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2353] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2354] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2352] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2356] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2355] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2357] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2358] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2359] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2362] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2361] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2360] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2365] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2363] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2364] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2367] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2366] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2368] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2370] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2369] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2373] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2371] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2372] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2374] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2375] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2376] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2377] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2378] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2379] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2383] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2380] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2381] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2382] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2385] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2384] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppGateway:2386] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2389] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2387] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2388] exit with status 65280
+2016-02-05 15:13:08 worker[YourAppGateway:2390] exit with status 65280
+2016-02-05 15:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:08 worker[YourAppBusinessWorker:2391] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2392] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2393] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2395] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2396] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2397] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2394] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2398] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2399] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2401] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2400] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2403] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2402] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2404] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2405] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2406] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2407] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2408] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2411] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2410] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2409] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2412] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2413] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2414] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2415] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2416] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2418] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2417] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2419] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2420] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2421] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2422] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2423] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2424] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2426] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2425] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2429] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2430] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2427] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2428] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2431] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2432] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2434] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2436] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2433] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2437] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2438] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2435] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2439] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2440] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2444] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2442] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2445] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2441] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2443] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2446] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2447] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2448] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2453] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2452] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2451] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2450] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2449] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2454] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2456] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2455] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2457] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2458] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2459] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2460] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2461] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2462] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2464] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2463] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2465] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2467] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2468] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2466] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2470] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2469] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2471] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2472] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2473] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2474] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2475] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2477] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2476] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2478] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2479] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2481] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2480] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2484] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2483] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2482] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2485] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2486] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2489] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2488] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2487] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2491] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2490] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2492] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2493] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2494] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2495] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2496] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2498] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2497] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2500] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2499] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2501] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2502] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2503] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2504] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2506] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2505] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2507] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2509] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2510] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2508] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2511] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2512] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2513] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2514] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2516] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2515] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2517] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2518] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2519] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2521] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2520] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2522] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2523] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2524] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2525] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2527] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2526] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2528] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2529] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppGateway:2530] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2532] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2533] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2534] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2535] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2531] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2536] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 Workerman[start.php] Stopping ...
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2537] exit with status 65280
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2541] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2538] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2539] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2540] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2542] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppGateway:2543] exit with status 65280
+2016-02-05 15:13:09 worker[YourAppBusinessWorker:2544] exit with status 65280
+2016-02-05 15:13:09 Workerman[start.php] has been stopped
+2016-02-20 00:13:21 Workerman[start.php] start in DEBUG mode
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:32747] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:32746] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:32748] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:32749] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:32761] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:32758] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:32759] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:32760] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:32762] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:32763] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:32764] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:32765] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:301] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:300] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:32766] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:32767] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:302] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:304] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:303] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:305] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:306] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:308] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:309] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:310] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:311] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:312] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:313] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:314] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:316] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:315] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:317] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:318] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:319] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:320] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:321] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:322] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:323] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:324] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:325] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:326] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:328] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:330] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:329] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:327] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:331] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:332] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:333] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:335] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:334] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:337] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:336] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:338] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:339] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:340] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:342] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:345] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:344] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:341] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:346] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:343] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:347] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:348] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:349] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:350] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:351] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:353] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:352] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppGateway:354] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:356] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:355] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:357] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:359] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:358] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 worker[YourAppBusinessWorker:360] exit with status 65280
+2016-02-20 00:13:21 worker[YourAppGateway:361] exit with status 65280
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:362] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:363] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:364] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:365] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:367] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:366] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:368] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:369] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:370] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:371] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:372] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:373] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:374] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:376] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:375] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:377] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:378] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:379] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:380] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:381] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:382] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:383] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:384] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:385] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:387] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:386] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:389] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:390] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:388] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:391] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:392] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:393] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:399] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:394] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:397] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:395] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:398] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:396] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:400] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:403] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:402] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:401] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:406] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:404] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:408] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:405] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:410] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:412] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:411] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:413] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:415] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:418] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:417] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:416] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:414] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:419] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:420] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:421] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:426] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:425] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:423] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:422] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:424] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:427] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:428] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:429] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:432] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:431] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:430] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:434] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:433] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:435] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:436] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:437] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:438] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:440] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:441] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:439] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:442] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:443] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:444] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:445] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:446] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:450] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:448] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:449] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:447] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:451] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:452] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:454] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:457] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:455] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:453] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:456] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:458] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:459] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:460] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:463] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:461] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:462] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:464] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:465] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:466] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:467] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:469] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:470] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:471] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:468] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:472] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:473] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:474] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:475] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:476] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:478] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:479] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:477] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:480] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:481] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:483] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:482] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:484] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:486] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:485] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:487] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:488] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:489] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:490] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:491] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:492] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:494] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:493] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:495] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:497] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:496] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:498] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:499] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:500] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:501] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:502] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:503] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:504] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:506] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:505] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:507] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:510] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:509] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:511] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:512] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:514] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:515] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:513] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:516] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:517] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:519] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:518] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:520] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:523] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppGateway:522] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:525] exit with status 65280
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:521] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppGateway:527] exit with status 65280
+2016-02-20 00:13:22 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:22 worker[YourAppBusinessWorker:528] exit with status 65280
+2016-02-20 00:13:23 worker[YourAppBusinessWorker:526] exit with status 65280
+2016-02-20 00:13:23 worker[YourAppBusinessWorker:529] exit with status 65280
+2016-02-20 00:13:23 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:23 Workerman[start.php] Stopping ...
+2016-02-20 00:13:23 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:23 worker[YourAppGateway:531] exit with status 65280
+2016-02-20 00:13:23 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:23 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:23 WORKER EXIT UNEXPECTED E_ERROR Class 'Redis' not found in /home/wwwroot/wm/GatewayWorker/Lib/StoreDriver/Redis.php on line 20
+2016-02-20 00:13:23 worker[YourAppGateway:532] exit with status 65280
+2016-02-20 00:13:23 worker[YourAppBusinessWorker:533] exit with status 65280
+2016-02-20 00:13:23 worker[YourAppGateway:530] exit with status 65280
+2016-02-20 00:13:23 worker[YourAppGateway:534] exit with status 65280
+2016-02-20 00:13:23 worker[YourAppBusinessWorker:535] exit with status 65280
+2016-02-20 00:13:23 worker[YourAppBusinessWorker:536] exit with status 65280
+2016-02-20 00:13:23 worker[YourAppBusinessWorker:537] exit with status 65280
+2016-02-20 00:13:23 Workerman[start.php] has been stopped
