@@ -42,25 +42,3 @@ Hello 3
 haha
 3 said haha
 ```
-
-手册
-=======
-http://www.workerman.net/gatewaydoc/
-
-使用GatewayWorker开发的项目
-=======
-## [tadpole](http://kedou.workerman.net/)  
-[Live demo](http://kedou.workerman.net/)  
-[Source code](https://github.com/walkor/workerman)  
-![workerman todpole](http://www.workerman.net/img/workerman-todpole.png)   
-
-## [chat room](http://chat.workerman.net/)  
-[Live demo](http://chat.workerman.net/)  
-[Source code](https://github.com/walkor/workerman-chat)  
-![workerman-chat](http://www.workerman.net/img/workerman-chat.png)  
-
-## [web-msg-sender](https://github.com/walkor/web-msg-sender)  
-[Live demo send page](http://workerman.net:3333/)  
-[Live demo receive page](http://workerman.net/web-msg-sender.html)  
-[Source code](https://github.com/walkor/web-msg-sender)  
-![web-msg-sender](http://www.workerman.net/img/web-msg-sender.png)   
