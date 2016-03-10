@@ -1779,3 +1779,4 @@
 2016-02-20 00:13:23 worker[YourAppBusinessWorker:536] exit with status 65280
 2016-02-20 00:13:23 worker[YourAppBusinessWorker:537] exit with status 65280
 2016-02-20 00:13:23 Workerman[start.php] has been stopped
+2016-03-09 09:42:45 Workerman[start.php] start in DEBUG mode
