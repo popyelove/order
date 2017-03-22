@@ -7,6 +7,7 @@
  */
 $name='lichao';
 echo $name;
+echo 123;
 
 
 
