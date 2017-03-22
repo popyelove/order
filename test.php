@@ -7,7 +7,7 @@
  */
 $name='lichao';
 $name=1212;
-$name=234i234234;
+$age=00000;
 
 
 
