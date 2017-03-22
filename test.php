@@ -6,3 +6,7 @@
  * Time: 下午10:28
  */
 $name='lichao';
+$name=1212;
+
+
+
