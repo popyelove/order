@@ -5,9 +5,7 @@
  * Date: 17/2/27
  * Time: 下午10:28
  */
-$name='lichao';
-$name=1212;
-$age=00000;
+
 
 
 
